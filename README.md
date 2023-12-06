@@ -48,36 +48,35 @@ These models are just the beginning. In our commitment to advancing healthcare, 
 - Django
 
 
-### Installation 🛠️
+1. **Clone the Repository**
+   ```bash
+   https://github.com/Aksharpanchani/IT_314_Software_engineering_Project_G25.git
+   ```
 
-1. Clone the Repository
-   bash
-   git clone [https://github.com/srikarpadaliya/Course_management_system.git](https://github.com/Aksharpanchani/IT_314_Software_engineering_Project_G25.git)
-   
-
-2. Navigate to the Project Directory
-   bash
+2. **Navigate to the Project Directory**
+   ```bash
    cd HMS
-   
+   ```
 
-3. Install Dependencies
-   bash
+3. **Install Dependencies**
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
 ## Running the Application 🌐
 
-1. Start the Development Server
-   bash
+1. **Start the Development Server**
+   ```bash
    python manage.py runserver
-   
+   ```
    Access the application at [http://127.0.0.1:8000/](http://127.0.0.1:8000/) on your browser.
 
-2. Run Tests
-   bash
-   python manage.py test
-   
+2. **Run Tests**
+   ```bash
+   python manage.py test core
+   ```
    Ensure all tests pass for optimal functionality.
+
 
 ## Contributing 🤝
 
@@ -91,7 +90,7 @@ For support, email medai.solutions.health@gmail.com or raise an issue on the Git
 
 
 
-https://github.com/srikarpadaliya/Course_management_system/assets/122224886/130b9aaa-c412-4cf4-b0f6-500fa4e51989
+https://github.com/nikunj19104/Digital_Business_Card/assets/143321150/a2df75df-4fc5-4741-9041-c18d0dac96c1
 
 
 
